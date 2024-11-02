@@ -88,7 +88,7 @@ var Mainnet = Config{
 
 	EigenlayerOperatorRegistryClaimAddress: common.HexToAddress("0x8bB56D1CBA6273478E9B4D79F89857ac8D766eb3"),
 
-	AvsOperatorManagerAddress: common.HexToAddress("0x2093Bbb221f1d8C7c932c32ee28Be6dEe4a37A6a"),
+	AvsOperatorManagerAddress: common.HexToAddress("0x990e7e46D8C0537938a46d4A8FaC805d28567c3d"),
 
 	AltLayerRegistryCoordinatorAddress:  common.HexToAddress("0x561be1AB42170a19f31645F774e6e3862B2139AA"),
 	AltLayerServiceManagerAddress:       common.HexToAddress("0x71a77037870169d47aad6c2C9360861A4C0df2bF"),
@@ -124,7 +124,7 @@ var Holesky = Config{
 	BeaconEthStrategyAddress: common.HexToAddress("0xbeaC0eeEeeeeEEeEeEEEEeeEEeEeeeEeeEEBEaC0"),
 	WethStrategyAddress:      common.HexToAddress("0x80528D6e9A2BAbFc766965E0E26d5aB08D9CFaF9"),
 
-	AvsOperatorManagerAddress: common.HexToAddress("0xdf9679e8bfce22ae503fd2726cb1218a18cd8bf4"),
+	AvsOperatorManagerAddress: common.HexToAddress("0xB55002757E03557C7d4D21eA5c5520579333A515"),
 
 	AltLayerRegistryCoordinatorAddress:  common.HexToAddress("0x1eA7D160d325B289bF981e0D7aB6Bf3261a0FFf2"),
 	AltLayerServiceManagerAddress:       common.HexToAddress("0xae9a4497dee2540daf489beddb0706128a99ec63"),
