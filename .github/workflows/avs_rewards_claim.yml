@@ -28,7 +28,7 @@ jobs:
         env:
           RPC_URL: ${{ secrets.RPC_URL }}
         run: |
-          ./avs-cli claim-rewards --all --recipient 0x0c83EAe1FE72c390A02E426572854931EefF93BA
+          ./avs-cli claim-rewards --all --recipient 0xA553800115b9E89ADbB6323bb1580cb6C2952fbC
           # Verify the file was created
           ls -la avs-operator-bulk-reward-claim-0.json
       
